@@ -47,6 +47,9 @@ coverage.xml
 *.mo
 *.pot
 
+#temporary Backups
+*~
+
 # Django stuff:
 *.log
 
@@ -55,3 +58,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#malarkey - Project Ideas
+projectideas.txt
